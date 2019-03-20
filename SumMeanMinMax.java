@@ -14,7 +14,7 @@ public class SumMeanMinMax {
 		int c = scan.nextInt();
 		
 		int sum = a+b+c;
-		int mean = sum /3;
+		double mean = sum /3;
 		
 		System.out.println("sum  " +sum);
 		
